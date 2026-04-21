@@ -1,6 +1,6 @@
 ### Bem vindo ao meu perfil 👋
 
-### Repositório em migração para meu GITLAB
+### Repositório  GITLAB Interno (IFRN/CN): 
 <a href="https://gitlab.ifrncn.com.br/ricardokleber" target="_blank">Clique aqui para ir ao RK GITLAB</a>
 
 ### Contatos:
